@@ -1,0 +1,81 @@
+
+W
+java:S3252Û"4Use static access with "java.awt.Color" for "BLACK".(òÁ½üÿÿÿÿ8ÓÀ¯ø±.
+{
+java:S1171B"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ˆ“˜í±.
+F
+java:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÓÀ¯ø±.
+F
+java:S1604¬"(Make this anonymous inner class a lambda(õœ„„8ö§öİ³.
+t	java:S1169"SRename this field "button_6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†äÙëøÿÿÿÿ8ˆ“˜í±.
+K
+java:S1604ˆ"(Make this anonymous inner class a lambda(Ò”¿˜şÿÿÿÿ8ÓÀ¯ø±.
+W
+java:S3252Ú"4Use static access with "java.awt.Color" for "green".(–ËåÂúÿÿÿÿ8ÓÀ¯ø±.
+F
+java:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÓÀ¯ø±.
+t	java:S1166"SRename this field "button_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ğİìúÿÿÿÿ8ˆ“˜í±.
+t	java:S1165"SRename this field "button_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üô«Ñüÿÿÿÿ8ˆ“˜í±.
+K
+java:S1604¼"(Make this anonymous inner class a lambda(®şÇ—ÿÿÿÿÿ8ÅÍıİ³.
+F
+java:S1604…"(Make this anonymous inner class a lambda(±Óà²8ÓÀ¯ø±.
+x
+java:S14503"[Remove the "btnNewButton" field and declare it as a local variable in the relevant methods.(ıÀ•€8ˆ“˜í±.
+o	java:S1168"SRename this field "button_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à»º8ˆ“˜í±.
+o
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(÷ÚŸ¯8ÓÀ¯ø±.
+d
+java:S2142–"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÓÀ¯ø±.
+J
+java:S1604o"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ8ÓÀ¯ø±.
+s	java:S116="RRename this field "label_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¾€õùÿÿÿÿ8ˆ“˜í±.
+y
+java:S14502"WRemove the "button_1" field and declare it as a local variable in the relevant methods.(ºğÖËüÿÿÿÿ8ˆ“˜í±.
+t
+java:S14507"WRemove the "button_4" field and declare it as a local variable in the relevant methods.(ôÆ˜ò8ˆ“˜í±.
+K
+java:S1604¤"(Make this anonymous inner class a lambda(¢áâ¦şÿÿÿÿ8ö§öİ³.
+y
+java:S14509"WRemove the "button_6" field and declare it as a local variable in the relevant methods.(†äÙëøÿÿÿÿ8ˆ“˜í±.
+J
+java:S1604b"(Make this anonymous inner class a lambda(Š·î¶ıÿÿÿÿ8ÓÀ¯ø±.
+F
+java:S1604Ş"(Make this anonymous inner class a lambda(ªšŸÊ8È´•è³.
+L
+java:S1125á")Remove the literal "false" boolean value.(íàšİûÿÿÿÿ8È´•è³.
+o	java:S1167"SRename this field "button_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÆ˜ò8ˆ“˜í±.
+K
+java:S1604"(Make this anonymous inner class a lambda(Ÿ¹üËüÿÿÿÿ8ÓÀ¯ø±.
+z	java:S1164"YRename this field "btnNewButton_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿâ˜ıûÿÿÿÿ8ˆ“˜í±.
+t
+java:S14508"WRemove the "button_5" field and declare it as a local variable in the relevant methods.(à»º8ˆ“˜í±.
+F
+java:S1604Å"(Make this anonymous inner class a lambda(ªšŸÊ8ÓÀ¯ø±.
+L
+java:S1125±")Remove the literal "false" boolean value.(íàšİûÿÿÿÿ8Ã®›‹´.
+y
+java:S14505"WRemove the "button_2" field and declare it as a local variable in the relevant methods.(üô«Ñüÿÿÿÿ8ˆ“˜í±.
+k
+java:S1192™"NDefine a constant instead of duplicating this literal "Lucida Grande" 4 times.(Àâ”`8ÓÀ¯ø±.
+n	java:S116<"RRename this field "label_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‹¸€8ˆ“˜í±.
+t
+java:S3077!"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ãĞç¾8ˆ“˜í±.
+c
+java:S2147–"ECombine this catch with the one at line 276, which has the same body.(ä ¹€8ÓÀ¯ø±.
+f
+java:S3252Y"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ÓÀ¯ø±.
+E
+java:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆ“˜í±.
+t	java:S1162"SRename this field "button_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºğÖËüÿÿÿÿ8ˆ“˜í±.
+K
+java:S1604´"(Make this anonymous inner class a lambda(£’ª‰úÿÿÿÿ8ö§öİ³.
+J
+java:S1604y"(Make this anonymous inner class a lambda(ûæªÕøÿÿÿÿ8ÓÀ¯ø±.
+s	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ÿó¿øÿÿÿÿ8Ã®›‹´.
+y
+java:S14506"WRemove the "button_3" field and declare it as a local variable in the relevant methods.(‘Ğİìúÿÿÿÿ8ˆ“˜í±.
+K
+java:S1604®"(Make this anonymous inner class a lambda(ŞîàÄıÿÿÿÿ8Ã®›‹´.
+
+java:S14504"]Remove the "btnNewButton_1" field and declare it as a local variable in the relevant methods.(Ÿâ˜ıûÿÿÿÿ8ˆ“˜í±.

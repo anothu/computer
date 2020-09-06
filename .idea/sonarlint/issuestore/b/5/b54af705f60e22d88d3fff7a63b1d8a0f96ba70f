@@ -1,0 +1,47 @@
+
+X	java:S1252"<This block of commented-out lines of code should be removed.(º»¸Š8ÌŞÓÜ³.
+D
+java:S2189v""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÀÚ™«µ.
+J
+java:S1604]"(Make this anonymous inner class a lambda(™ÔÔÙÿÿÿÿÿ8ÀÚ™«µ.
+E
+java:S16048"(Make this anonymous inner class a lambda(£àØƒ8™¥˜í±.
+h
+java:S2184n"FCast one of the operands of this multiplication operation to a "long".(áç‡»ùÿÿÿÿ8“†íô¼.
+D
+java:S2189S""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8™¥˜í±.
+J
+java:S1604O"(Make this anonymous inner class a lambda(ÇáĞÔÿÿÿÿÿ8™¥˜í±.
+D
+java:S2189a""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÀÚ™«µ.
+E
+java:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“†íô¼.
+D
+java:S2189<""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8™¥˜í±.
+`
+java:S2147""DCombine this catch with the one at line 32, which has the same body.(æù8™¥˜í±.
+–
+java:S11306"yRemove the declaration of thrown exception 'org.hyperic.sigar.SigarException', as it cannot be thrown from method's body.(‡†¼‹8“†íô¼.
+E
+java:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“†íô¼.
+b
+java:S2184Y"FCast one of the operands of this multiplication operation to a "long".(ô±Q8“†íô¼.
+c
+java:S2184€"FCast one of the operands of this multiplication operation to a "long".(ßğùI8“†íô¼.
+E
+java:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™¥˜í±.
+]	java:S125%"<This block of commented-out lines of code should be removed.(•ğå‘øÿÿÿÿ8ªÓÜ³.
+c
+java:S2142I"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8™¥˜í±.
+E
+java:S1604r"(Make this anonymous inner class a lambda(³Šìê8ÀÚ™«µ.
+E
+java:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™¥˜í±.
+T
+java:S1135"2Complete the task associated to this TODO comment.(îÛ´¥ûÿÿÿÿ8™¥˜í±.
+E
+java:S1148#"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8™¥˜í±.
+h
+java:S2184H"FCast one of the operands of this multiplication operation to a "long".(ÀÈ€òûÿÿÿÿ8“†íô¼.
+c
+java:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8™¥˜í±.

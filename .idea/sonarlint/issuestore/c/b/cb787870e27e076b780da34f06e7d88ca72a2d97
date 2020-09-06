@@ -1,0 +1,71 @@
+
+t	java:S1161"SRename this field "button_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºğÖËüÿÿÿÿ8ñ‰Ñô±.
+L
+java:S1125Ç")Remove the literal "false" boolean value.(íàšİûÿÿÿÿ8ÎËòˆ´.
+J
+java:S1604a"(Make this anonymous inner class a lambda(Š·î¶ıÿÿÿÿ8ñ‰Ñô±.
+K
+java:S1604"(Make this anonymous inner class a lambda(Ÿ¹üËüÿÿÿÿ8ñ‰Ñô±.
+y
+java:S14504"WRemove the "button_2" field and declare it as a local variable in the relevant methods.(üô«Ñüÿÿÿÿ8§£˜í±.
+s	java:S117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ÿó¿øÿÿÿÿ8¨äîˆ´.
+{
+java:S1171@"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ñ‰Ñô±.
+f
+java:S3252X"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ñ‰Ñô±.
+s	java:S116<"RRename this field "label_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¾€õùÿÿÿÿ8§£˜í±.
+y
+java:S14505"WRemove the "button_3" field and declare it as a local variable in the relevant methods.(‘Ğİìúÿÿÿÿ8§£˜í±.
+o	java:S1167"SRename this field "button_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à»º8§£˜í±.
+t
+java:S14506"WRemove the "button_4" field and declare it as a local variable in the relevant methods.(ôÆ˜ò8§£˜í±.
+n	java:S116;"RRename this field "label_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‹¸€8ñ‰Ñô±.
+
+java:S14503"]Remove the "btnNewButton_1" field and declare it as a local variable in the relevant methods.(Ÿâ˜ıûÿÿÿÿ8ñ‰Ñô±.
+k
+java:S1192‡"NDefine a constant instead of duplicating this literal "Lucida Grande" 4 times.(Àâ”`8ë×Ç‰´.
+F
+java:S1604Ä"(Make this anonymous inner class a lambda(ªšŸÊ8û–øæ³.
+t
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ˆå¶šûÿÿÿÿ8÷Ô­ç³.
+L
+java:S1125ñ")Remove the literal "false" boolean value.(íàšİûÿÿÿÿ8»ù„è³.
+t	java:S1164"SRename this field "button_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üô«Ñüÿÿÿÿ8§£˜í±.
+z	java:S1163"YRename this field "btnNewButton_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿâ˜ıûÿÿÿÿ8ñ‰Ñô±.
+t	java:S1165"SRename this field "button_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ğİìúÿÿÿÿ8§£˜í±.
+o	java:S1166"SRename this field "button_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÆ˜ò8§£˜í±.
+F
+java:S1604«"(Make this anonymous inner class a lambda(õœ„„8Ó†õİ³.
+K
+java:S1604ı"(Make this anonymous inner class a lambda(Ò”¿˜şÿÿÿÿ8ë×Ç‰´.
+t	java:S1168"SRename this field "button_6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†äÙëøÿÿÿÿ8§£˜í±.
+K
+java:S1604³"(Make this anonymous inner class a lambda(£’ª‰úÿÿÿÿ8Ó†õİ³.
+J
+java:S1604o"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ8ñ‰Ñô±.
+y
+java:S14508"WRemove the "button_6" field and declare it as a local variable in the relevant methods.(†äÙëøÿÿÿÿ8§£˜í±.
+K
+java:S1604»"(Make this anonymous inner class a lambda(®şÇ—ÿÿÿÿÿ8¨ıİ³.
+y
+java:S14501"WRemove the "button_1" field and declare it as a local variable in the relevant methods.(ºğÖËüÿÿÿÿ8ñ‰Ñô±.
+x
+java:S14502"[Remove the "btnNewButton" field and declare it as a local variable in the relevant methods.(ıÀ•€8§£˜í±.
+t
+java:S14507"WRemove the "button_5" field and declare it as a local variable in the relevant methods.(à»º8§£˜í±.
+K
+java:S1604£"(Make this anonymous inner class a lambda(¢áâ¦şÿÿÿÿ8ø¡¶ü±.
+J
+java:S1604y"(Make this anonymous inner class a lambda(ûæªÕøÿÿÿÿ8òˆâø±.
+F
+java:S1604„"(Make this anonymous inner class a lambda(±Óà²8ñ‰Ñô±.
+K
+java:S1604î"(Make this anonymous inner class a lambda(ŞîàÄıÿÿÿÿ8ÎËòˆ´.
+t
+java:S3077#"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(–›¡Î8ñ‰Ñô±.
+E
+java:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Öíô¼.
+W
+java:S3252º"4Use static access with "java.awt.Color" for "green".(–ËåÂúÿÿÿÿ8Öíô¼.
+W
+java:S3252»"4Use static access with "java.awt.Color" for "BLACK".(òÁ½üÿÿÿÿ8Öíô¼.

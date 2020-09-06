@@ -1,0 +1,23 @@
+
+I
+java:S1481",Remove this unused "fields1" local variable.(€ıƒ½8ÎÛæô¼.
+L
+java:S3740 "/Provide the parametrized type for this generic.(ëšß8ÎÛæô¼.
+£
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÜàùúÿÿÿÿ8ÎÛæô¼.
+L
+java:S3740 "/Provide the parametrized type for this generic.(ëšß8ÎÛæô¼.
+W
+java:S1854"5Remove this useless assignment to local variable "o".(ø¼ÅÛûÿÿÿÿ8ÎÛæô¼.
+T
+java:S1135"2Complete the task associated to this TODO comment.(îÛ´¥ûÿÿÿÿ8ÎÛæô¼.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¯»èşÿÿÿÿ8ÎÛæô¼.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¿úë¢8ÎÛæô¼.
+
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Â²8ÎÛæô¼.
+X
+java:S1854";Remove this useless assignment to local variable "fields1".(€ıƒ½8ÎÛæô¼.
+H
+java:S1481"&Remove this unused "o" local variable.(ø¼ÅÛûÿÿÿÿ8ÎÛæô¼.
+j
+java:S2133"HRemove this object instantiation and use "NetworkService.class" instead.(²Æ­­üÿÿÿÿ8ÎÛæô¼.

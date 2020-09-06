@@ -1,0 +1,15 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î£Ğ¼8ÆÛóº.
+H
+java:S1481"+Remove this unused "innert" local variable.(Í´›ú8 øéóº.
+H
+java:S1481"+Remove this unused "innert" local variable.(Í´›ú8û’ìóº.
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(î£Ğ¼8ÆÛóº.
+W
+java:S1854":Remove this useless assignment to local variable "innert".(Í´›ú8 øéóº.
+W
+java:S1854":Remove this useless assignment to local variable "innert".(Í´›ú8û’ìóº.
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹ËÕD8€ÆÛóº.
+M
+java:S1135"2Complete the task associated to this TODO comment.(îÛ´¥ûÿÿÿÿ

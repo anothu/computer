@@ -1,0 +1,94 @@
+
+z	java:S116'"YRename this field "btnNewButton_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿâ˜ıûÿÿÿÿ8å™˜í±.
+t	java:S116)"SRename this field "button_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ğİìúÿÿÿÿ8å™˜í±.
+o	java:S116+"SRename this field "button_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à»º8å™˜í±.
+t	java:S116("SRename this field "button_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üô«Ñüÿÿÿÿ8å™˜í±.
+M
+java:S3740Ò"/Provide the parametrized type for this generic.(Éˆ§Ã8¯ »ˆ´.
+t
+java:S1450*"WRemove the "button_4" field and declare it as a local variable in the relevant methods.(ôÆ˜ò8å™˜í±.
+Y
+java:S2696÷"6Make the enclosing method "static" or remove this set.(Ìâ¡üÿÿÿÿ8¿¿Ç‡´.
+Y
+java:S2696ø"6Make the enclosing method "static" or remove this set.(§Î§•üÿÿÿÿ8¿¿Ç‡´.
+R
+java:S3740Ş"/Provide the parametrized type for this generic.(§ˆ€üÿÿÿÿ8¯ »ˆ´.
+q
+java:S1192¶"NDefine a constant instead of duplicating this literal "Lucida Grande" 4 times.(§Ñ±âúÿÿÿÿ8¯ »ˆ´.
+S
+java:S2696õ"6Make the enclosing method "static" or remove this set.(ª»ö58¿¿Ç‡´.
+K
+java:S1604ñ"(Make this anonymous inner class a lambda(ŞîàÄıÿÿÿÿ8Èï±.
+F
+java:S1604’"(Make this anonymous inner class a lambda(õœ„„8£³ÿİ³.
+t	java:S116,"SRename this field "button_6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†äÙëøÿÿÿÿ8å™˜í±.
+s	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ˆ€üÿÿÿÿ8¯ »ˆ´.
+E
+java:S1604k"(Make this anonymous inner class a lambda(±Óà²8å™˜í±.
+K
+java:S1604Š"(Make this anonymous inner class a lambda(¢áâ¦şÿÿÿÿ8Œê±ù±.
+T
+java:S2696ˆ"6Make the enclosing method "static" or remove this set.(âƒ©í8ÇİÓˆ´.
+u	java:S1160"YRename this field "btnNewButton_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ÷Øë8å™˜í±.
+
+java:S1450'"]Remove the "btnNewButton_1" field and declare it as a local variable in the relevant methods.(Ÿâ˜ıûÿÿÿÿ8å™˜í±.
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(˜” ÿşÿÿÿÿ8å™˜í±.
+J
+java:S1604I"(Make this anonymous inner class a lambda(Š·î¶ıÿÿÿÿ8å™˜í±.
+M
+java:S3740Ò"/Provide the parametrized type for this generic.(Éˆ§Ã8¯ »ˆ´.
+n	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éˆ§Ã8¯ »ˆ´.
+K
+java:S1604š"(Make this anonymous inner class a lambda(£’ª‰úÿÿÿÿ8£³ÿİ³.
+x
+java:S1450&"[Remove the "btnNewButton" field and declare it as a local variable in the relevant methods.(ıÀ•€8å™˜í±.
+f
+java:S3252@"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8å™˜í±.
+J
+java:S1604V"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ8å™˜í±.
+I
+java:S1068+",Remove this unused "button_5" private field.(à»º8Õ’ûé³.
+J
+java:S1604`"(Make this anonymous inner class a lambda(ûæªÕøÿÿÿÿ8å™˜í±.
+J
+java:S1604u"(Make this anonymous inner class a lambda(Ÿ¹üËüÿÿÿÿ8å™˜í±.
+R
+java:S3740Ä"/Provide the parametrized type for this generic.(úäëËıÿÿÿÿ8¯ »ˆ´.
+K
+java:S1604¡"(Make this anonymous inner class a lambda(®şÇ—ÿÿÿÿÿ8£³ÿİ³.
+K
+java:S1604«"(Make this anonymous inner class a lambda(Ò”¿˜şÿÿÿÿ8å™˜í±.
+x
+java:S1450/"VRemove the "label_3" field and declare it as a local variable in the relevant methods.(Æ¾€õùÿÿÿÿ8å™˜í±.
+w
+java:S1450."ZRemove the "lblNewLabel" field and declare it as a local variable in the relevant methods.(è†¯ï8å™˜í±.
+R
+java:S3740Ë"/Provide the parametrized type for this generic.(–Ššşÿÿÿÿ8¯ »ˆ´.
+y
+java:S1450)"WRemove the "button_3" field and declare it as a local variable in the relevant methods.(‘Ğİìúÿÿÿÿ8å™˜í±.
+t	java:S116%"SRename this field "button_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºğÖËüÿÿÿÿ8å™˜í±.
+s	java:S116/"RRename this field "label_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¾€õùÿÿÿÿ8å™˜í±.
+F
+java:S1604€"(Make this anonymous inner class a lambda(Èú†8ñáÀˆ´.
+R
+java:S3740Ë"/Provide the parametrized type for this generic.(–Ššşÿÿÿÿ8¯ »ˆ´.
+R
+java:S3740Ä"/Provide the parametrized type for this generic.(úäëËıÿÿÿÿ8¯ »ˆ´.
+z
+java:S14500"]Remove the "btnNewButton_2" field and declare it as a local variable in the relevant methods.(ÿ÷Øë8Èï±.
+s	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÓõéüÿÿÿÿ8¯ »ˆ´.
+y
+java:S1450%"WRemove the "button_1" field and declare it as a local variable in the relevant methods.(ºğÖËüÿÿÿÿ8å™˜í±.
+v
+java:S1450-"TRemove the "lblIp" field and declare it as a local variable in the relevant methods.(û†Š‚üÿÿÿÿ8å™˜í±.
+o	java:S116*"SRename this field "button_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÆ˜ò8å™˜í±.
+T
+java:S2696ö"6Make the enclosing method "static" or remove this set.(º«¸Ã8¿¿Ç‡´.
+y
+java:S1450,"WRemove the "button_6" field and declare it as a local variable in the relevant methods.(†äÙëøÿÿÿÿ8å™˜í±.
+R
+java:S3740Ş"/Provide the parametrized type for this generic.(§ˆ€üÿÿÿÿ8¯ »ˆ´.
+s	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ššşÿÿÿÿ8¯ »ˆ´.
+y
+java:S1450("WRemove the "button_2" field and declare it as a local variable in the relevant methods.(üô«Ñüÿÿÿÿ8å™˜í±.

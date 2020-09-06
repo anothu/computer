@@ -1,0 +1,15 @@
+
+>
+java:S1148"#Use a logger to log this exception.(Ç’Çê8¯º˜í±.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¤€÷ûÿÿÿÿ8¯º˜í±.
+R
+java:S1135"2Complete the task associated to this TODO comment.(îÛ´¥ûÿÿÿÿ8¯º˜í±.
+U	java:S125"<This block of commented-out lines of code should be removed.(ü¶8Æƒ¿ä³.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÚÛ†‡ûÿÿÿÿ8¯º˜í±.
+T
+java:S1068"4Remove this unused "netInterfaceStat" private field.(‘ç½ºøÿÿÿÿ8¯º˜í±.
+h
+java:S1858"H"getHostAddress" returns a string, there's no need to call "toString()".(‘–‘üÿÿÿÿ8¯º˜í±.
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÚËÊÓ8¯º˜í±.
+U	java:S125"<This block of commented-out lines of code should be removed.(ã¬ÌA8Úÿ½ä³.

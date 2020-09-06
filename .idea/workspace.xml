@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58594644-9207-4734-bd42-6043567a6530" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eBDUZNHvO4RqeUtn7aZSLAwGNm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/indi/me/computer/frame" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35977012" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/indi/me/computer/frame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.me.computer.Application" />
+      <module name="computer" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=$USER_HOME$/Downloads/hyperic-sigar-1.6.4/sigar-bin/lib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.me.computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SigarGetNet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.me.computer.test.SigarGetNet" />
+      <module name="computer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.me.computer.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.me.computer.frame.StartFrame" />
+      <module name="computer" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=$USER_HOME$/Downloads/hyperic-sigar-1.6.4/sigar-bin/lib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.me.computer.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.me.computer.Test" />
+      <module name="computer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.me.computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.me.computer.Test2" />
+      <module name="computer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.me.computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.StartFrame" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.SigarGetNet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.SigarGetNet" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.StartFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58594644-9207-4734-bd42-6043567a6530" name="Default Changelist" comment="" />
+      <created>1593786108343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593786108343</updated>
+      <workItem from="1593786110166" duration="203000" />
+      <workItem from="1593786318876" duration="3375000" />
+      <workItem from="1593789764326" duration="1025000" />
+      <workItem from="1593824007089" duration="30175000" />
+      <workItem from="1593915046646" duration="34364000" />
+      <workItem from="1594098198249" duration="649000" />
+      <workItem from="1594431301683" duration="15938000" />
+      <workItem from="1594461613080" duration="1403000" />
+      <workItem from="1594520442489" duration="11113000" />
+      <workItem from="1594863451522" duration="3469000" />
+      <workItem from="1594911635051" duration="2096000" />
+      <workItem from="1594950866685" duration="1954000" />
+      <workItem from="1596340146977" duration="3985000" />
+      <workItem from="1596899013293" duration="1624000" />
+      <workItem from="1596947011159" duration="1502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="113" y="23" key="#Project_Structure" timestamp="1596356979337">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="113" y="23" key="#Project_Structure/0.23.1280.729@0.23.1280.729" timestamp="1596356979337" />
+    <state x="146" y="23" key="#Project_Structure/36.23.1244.777@36.23.1244.777" timestamp="1593786538905" />
+    <state x="122" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593854667301">
+      <screen x="36" y="23" width="1244" height="777" />
+    </state>
+    <state x="122" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/36.23.1244.777@36.23.1244.777" timestamp="1593854667301" />
+    <state x="471" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1594526623969">
+      <screen x="36" y="23" width="1244" height="777" />
+    </state>
+    <state x="471" y="134" key="#com.intellij.ide.util.MemberChooser/36.23.1244.777@36.23.1244.777" timestamp="1594526623969" />
+    <state x="311" y="147" key="#xdebugger.evaluate" timestamp="1596948371475">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="311" y="147" key="#xdebugger.evaluate/0.23.1280.727@0.23.1280.727" timestamp="1596948371475" />
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom" timestamp="1596957324573">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1596957324573" />
+    <state width="1238" height="125" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1596390391493" />
+    <state width="1202" height="60" key="GridCell.Tab.0.bottom/36.23.1244.777@36.23.1244.777" timestamp="1594952899079" />
+    <state width="1238" height="159" key="GridCell.Tab.0.center" timestamp="1596957324572">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1596957324572" />
+    <state width="1238" height="125" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1596390391492" />
+    <state width="1202" height="60" key="GridCell.Tab.0.center/36.23.1244.777@36.23.1244.777" timestamp="1594952899078" />
+    <state width="1238" height="159" key="GridCell.Tab.0.left" timestamp="1596957324571">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1596957324571" />
+    <state width="1238" height="125" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1596390391492" />
+    <state width="1202" height="60" key="GridCell.Tab.0.left/36.23.1244.777@36.23.1244.777" timestamp="1594952899078" />
+    <state width="1238" height="159" key="GridCell.Tab.0.right" timestamp="1596957324572">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1596957324572" />
+    <state width="1238" height="125" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1596390391492" />
+    <state width="1202" height="60" key="GridCell.Tab.0.right/36.23.1244.777@36.23.1244.777" timestamp="1594952899079" />
+    <state width="1238" height="159" key="GridCell.Tab.1.bottom" timestamp="1596957324574">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.1.bottom/0.23.1280.727@0.23.1280.727" timestamp="1596957324574" />
+    <state width="1238" height="125" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1596390391494" />
+    <state width="1202" height="449" key="GridCell.Tab.1.bottom/36.23.1244.777@36.23.1244.777" timestamp="1593962791336" />
+    <state width="1238" height="159" key="GridCell.Tab.1.center" timestamp="1596957324574">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.1.center/0.23.1280.727@0.23.1280.727" timestamp="1596957324574" />
+    <state width="1238" height="125" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1596390391493" />
+    <state width="1202" height="449" key="GridCell.Tab.1.center/36.23.1244.777@36.23.1244.777" timestamp="1593962791335" />
+    <state width="1238" height="159" key="GridCell.Tab.1.left" timestamp="1596957324573">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.1.left/0.23.1280.727@0.23.1280.727" timestamp="1596957324573" />
+    <state width="1238" height="125" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1596390391493" />
+    <state width="1202" height="449" key="GridCell.Tab.1.left/36.23.1244.777@36.23.1244.777" timestamp="1593962791334" />
+    <state width="1238" height="159" key="GridCell.Tab.1.right" timestamp="1596957324574">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="159" key="GridCell.Tab.1.right/0.23.1280.727@0.23.1280.727" timestamp="1596957324574" />
+    <state width="1238" height="125" key="GridCell.Tab.1.right/0.23.1280.729@0.23.1280.729" timestamp="1596390391493" />
+    <state width="1202" height="449" key="GridCell.Tab.1.right/36.23.1244.777@36.23.1244.777" timestamp="1593962791335" />
+    <state x="196" y="73" key="Maven.ArtifactSearchDialog" timestamp="1593931380411">
+      <screen x="36" y="23" width="1244" height="777" />
+    </state>
+    <state x="196" y="73" key="Maven.ArtifactSearchDialog/36.23.1244.777@36.23.1244.777" timestamp="1593931380411" />
+    <state x="167" y="23" key="SettingsEditor" timestamp="1593930227260">
+      <screen x="36" y="23" width="1244" height="777" />
+    </state>
+    <state x="167" y="23" key="SettingsEditor/36.23.1244.777@36.23.1244.777" timestamp="1593930227260" />
+    <state x="331" y="159" width="618" height="511" key="find.popup" timestamp="1596947947567">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="331" y="159" width="618" height="511" key="find.popup/0.23.1280.727@0.23.1280.727" timestamp="1596947947567" />
+    <state x="358" y="168" width="600" height="546" key="find.popup/36.23.1244.777@36.23.1244.777" timestamp="1594912554751" />
+    <state x="305" y="76" width="670" height="676" key="search.everywhere.popup" timestamp="1596380898433">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="305" y="76" width="670" height="676" key="search.everywhere.popup/0.23.1280.729@0.23.1280.729" timestamp="1596380898433" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/indi/me/computer/service/CpuService.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="parser.parser" />
+        <watch expression="((DefaultSqlSession)session).configuration" custom="org.apache.ibatis.session.defaults.DefaultSqlSession" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

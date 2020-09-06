@@ -1,0 +1,45 @@
+
+q
+java:S3008"VRename this field "HardRefresh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÄá®8ÿ£˜í±.
+O
+java:S1444"4Make this "public static NetworkRefresh" field final(òâÜÄ8ÿ£˜í±.
+z
+java:S1104"ZMake MemeoryRefresh a static final constant or non-public and provide accessors if needed.(‘–—„şÿÿÿÿ8ÿ£˜í±.
+r
+java:S1104"WMake HardRefresh a static final constant or non-public and provide accessors if needed.(ıÄá®8ÿ£˜í±.
+L
+java:S1444"1Make this "public static HardRefresh" field final(ıÄá®8ÿ£˜í±.
+o
+java:S1104"OMake map a static final constant or non-public and provide accessors if needed.(·Â…ªûÿÿÿÿ8åó†ç³.
+T
+java:S1444"4Make this "public static MemeoryRefresh" field final(‘–—„şÿÿÿÿ8ÿ£˜í±.
+I
+java:S1444")Make this "public static map" field final(·Â…ªûÿÿÿÿ8åó†ç³.
+I
+java:S1444".Make this "public static cpuStore" field final(‰ˆòÁ8ÿ£˜í±.
+v
+java:S1104"VMake cpuRefresh a static final constant or non-public and provide accessors if needed.(îíæœùÿÿÿÿ8ÿ£˜í±.
+=
+java:S2386"Make this member "protected".(·Â…ªûÿÿÿÿ8åó†ç³.
+M
+java:S1444"-Make this "public static isLogin" field final(Ä›‚±øÿÿÿÿ8ß„âç³.
+Z
+java:S1118":Add a private constructor to hide the implicit public one.(ì½ğÿÿÿÿÿ8óª‡ç³.
+N
+java:S1444".Make this "public static location" field final(¨¤Õšşÿÿÿÿ8ëÔÂ‡´.
+u
+java:S1104"ZMake NetworkRefresh a static final constant or non-public and provide accessors if needed.(òâÜÄ8ÿ£˜í±.
+s
+java:S1104"SMake isLogin a static final constant or non-public and provide accessors if needed.(Ä›‚±øÿÿÿÿ8ß„âç³.
+y
+java:S3008"YRename this field "MemeoryRefresh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘–—„şÿÿÿÿ8ÿ£˜í±.
+o
+java:S1104"TMake cpuStore a static final constant or non-public and provide accessors if needed.(‰ˆòÁ8ÿ£˜í±.
+t
+java:S1104"TMake location a static final constant or non-public and provide accessors if needed.(¨¤Õšşÿÿÿÿ8ëÔÂ‡´.
+P
+java:S1444"0Make this "public static cpuRefresh" field final(îíæœùÿÿÿÿ8ÿ£˜í±.
+t
+java:S3008"YRename this field "NetworkRefresh" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òâÜÄ8ÿ£˜í±.
+R
+java:S1135"2Complete the task associated to this TODO comment.(îÛ´¥ûÿÿÿÿ8ÿ£˜í±.
